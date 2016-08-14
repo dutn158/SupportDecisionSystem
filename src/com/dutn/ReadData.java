@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.dutn.dto.Model;
+
 public class ReadData {
 
 	private List<Model> models;
